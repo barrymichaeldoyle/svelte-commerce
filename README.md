@@ -29,7 +29,7 @@
 - 🔓 Svelte Commerce is free and open source. Download and modify it the way you want
 - 🛒 Most of the essential features for ecommerce are already integrated
 - 🕒 Save hours of development time setting up an ecommerce store front
-- 💰 No need to make a big leap or invest huge amount. Just take this opend source project and attach to existing backend.
+- 💰 No need to make a big leap or invest huge amount. Just take this open source project and attach to existing backend.
 - 🐛 If you have discovered a bug or have feature suggestion, feel free to create/join a discussion on Github.
 - 👍 I have been supporting this project alone since 2019. Any little code contribution will be appreciated
 - ✨ Deployment to Netlify or Vercel with zero-configuration
